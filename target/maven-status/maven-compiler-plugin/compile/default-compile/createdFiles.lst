@@ -1,0 +1,10 @@
+entitys\Pet.class
+entitys\Event.class
+entitys\Owner_.class
+rest\ApplicationConfig.class
+entitys\Owner.class
+entitys\Pet_.class
+rest\PetResource.class
+DTO\DTOPet.class
+entitys\Event_.class
+data\DataFacade.class
